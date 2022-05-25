@@ -1,0 +1,42 @@
+head {
+  text-align: center;
+  font-style: italic;
+  font-family:Arial;
+}
+title {
+  font-size: 70px;
+}
+h1 {
+  font-size: 55px;
+}
+h2 {
+  font-size: 50px;
+  text-align: center;
+}
+ul {
+  font-size: 30px;
+  line-height: 30px;
+}
+h3 {
+  text-align:center;
+  font-size: 40px;
+}
+a {
+  text-align: center;
+  font-size: 40px;
+}
+h4 {
+  text-align: center;
+  font-size: 50px;
+}
+h5 {
+  text-align: center;
+  font-size: 40px;
+}
+p {
+  text-align: center;
+  font-size: 30px;
+}
+body {
+  font-family: Arial;
+}
