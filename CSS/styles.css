@@ -1,42 +1,52 @@
 head {
+  color:pink;
   text-align: center;
   font-style: italic;
-  font-family:Arial;
+  font-family:Impact;  
 }
 title {
+  color:red;
   text-align: center;
-  font-size: 70px;
+  font-size: 60px;
 }
 h1 {
-  font-size: 55px;
-  text-align: center;
+  color:orange;
+  font-size: 40px;
+  text-align:center;
 }
 h2 {
-  font-size: 50px;
+  color:rgb(234, 197, 14);
+  font-size: 40px;
   text-align: center;
 }
 ul {
   font-size: 25px;
+  color:lemonchiffon;
 }
 h3 {
+  color:palevioletred;
   text-align:center;
   font-size: 40px;
 }
 a {
-  font-size: 20px;
+  color:plum;
+  font-size: 25px;
 }
 h4 {
+  color:palevioletred;
   text-align: center;
   font-size: 40px;
 }
 h5 {
+  color: rgb(183, 174, 39);
   text-align: center;
   font-size: 25px;
 }
 p {
+  color:orangered;
   text-align: center;
   font-size: 20px;
 }
 body {
-  font-family:'Courier New', Courier;
+  background-color:skyblue ;
 }
